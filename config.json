@@ -2,7 +2,7 @@
   "developers": [],
   "status": "p!help | pogy.xyz",
   "discord": "",
-  "dashboard": "true",
+  "dashboard": "false",
   "server": "",
   "prefix": "p!",
   "webhooks": {
